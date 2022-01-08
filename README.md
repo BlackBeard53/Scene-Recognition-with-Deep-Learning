@@ -6,7 +6,7 @@
 This project deals with recognition of different environments using Convolutional Neural Network. We explore two different network architecture SimpleNet and AlexNet. 
 Figure below shows results of using AlexNet for training and testing of CNN to recognize natural environments.
 
-<img src="Data/AlexNetScene.jpg" alt="Result">  
+<img src="data/AlexNetScene.jpg" alt="Result">  
 
 ## Credit
 
